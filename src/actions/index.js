@@ -8,6 +8,22 @@ export const Product_Data_List=(productData)=>{
         productData:productData
     }
 }
+export const Product_List_Data_Success=(data)=>{
+    return{
+     
+    }
+}
+export const Product_List_Data_Error=(data)=>{
+    return {
+
+    }
+}
+export const Data_Get_Saga=(data)=>{
+    // console.log(data);
+    return{
+
+    }
+}
 export const CART_PRODUCT=(cartProduct)=>{
     return {
         type:types.CART_PRODUCT,

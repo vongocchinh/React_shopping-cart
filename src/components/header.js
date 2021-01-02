@@ -54,7 +54,7 @@ import React, { Component } from 'react'
                             <div className="collapsible-body">
                                 <ul>
                                     <li>
-                                        <a  href="product.html" className="waves-effect">Product Page V.1</a>
+                                        <a  href="product.html" className="waves-effect">cart</a>
                                     </li>
                                     <li>
                                         <a  href="product-page.html" className="waves-effect">Product Page V.2</a>
